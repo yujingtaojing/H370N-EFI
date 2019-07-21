@@ -195,19 +195,19 @@
 		<key>Arguments</key>
 		<string>slide=0 dart=0</string>
 		<key>CustomLogo</key>
-		<false/>
+		<string>None</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
 		<string>MACOS</string>
-		<key>Fast</key>
-		<true/>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Secure</key>
 		<false/>
+		<key>Timeout</key>
+		<integer>10</integer>
 		<key>XMPDetection</key>
 		<false/>
 	</dict>
